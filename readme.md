@@ -1,4 +1,4 @@
-## **Backend Coderhouse - Desafío 23 - Clase 46: Reformar para usar otro framework**
+## **Backend Coderhouse - Desafío 24 - Clase 47: Servidor Deno con Oak**
 
 **Consigna:**
 Realizar un servidor en Deno que reciba por query params una frase y responda otra frase con las palabras invertidas.
